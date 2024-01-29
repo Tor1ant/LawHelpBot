@@ -1,6 +1,6 @@
 package com.github.tor1ant.lawhelpbot.config;
 
-import com.github.tor1ant.lawhelpbot.service.TelegramBot;
+import com.github.tor1ant.lawhelpbot.service.bot.TelegramBot;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.event.ContextRefreshedEvent;
 import org.springframework.context.event.EventListener;
